@@ -75,5 +75,6 @@ print(x)
 eps=0.001
 # loop run for m times depending on m the error value
 
+
 isDDM(a, n)
 mainSeidel(a,x,b,eps)

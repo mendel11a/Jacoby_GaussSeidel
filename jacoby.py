@@ -40,6 +40,7 @@ def mainSeidel(a,x,b,eps):
     print(x)
     print("number of itertion="+ str(iter))
 
+
 def isDDM(a, n):
     # for each row
     for i in range(0, n):
